@@ -1,1 +1,1 @@
-# either
+# Either Monad
